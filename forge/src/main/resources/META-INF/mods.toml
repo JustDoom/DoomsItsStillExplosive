@@ -6,7 +6,7 @@ license = "MIT"
 [[mods]]
 modId = "itsstillexplosive"
 version = "${version}"
-displayName = "ItsStillExplosive"
+displayName = "DoomsItsStillExplosive"
 authors = "JustDoom"
 description = '''
 Makes explosive items actually explosive

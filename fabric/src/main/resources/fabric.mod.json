@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "itsstillexplosive",
   "version": "${version}",
-  "name": "ItsStillExplosive",
+  "name": "DoomsItsStillExplosive",
   "description": "Makes explosive items actually explosive",
   "authors": [
     "JustDoom"
